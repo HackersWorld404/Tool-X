@@ -1,5 +1,5 @@
-#Hackers World
-#Mr.Anonymous
+#HackersWorld
+
 apt-get install python3
 
 apt-get install git
