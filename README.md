@@ -1,10 +1,10 @@
 #Hackers World
-#Mr.Anonymous
+
 apt-get install python3
 
 apt-get install git
 
-git clone https://github.com/HackersWorld/
+git clone https://github.com/HackersWorld404/
 
 pip3 install requests
 
